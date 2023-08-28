@@ -1,5 +1,5 @@
 # NotepadC
-Soooooo you know notepad?, welp i decided to make a notepad but with C++, its really simple but its honest work (At least for me)
+Soooooo you know notepad?, welp i decided to make a notepad but with C++, its really simple but its honest work (At least for me, also its fucking only terminal style because i cannot do GUI app with C++ right now)
 
 # Why, but WHY i decided to do this
 I decided to do this because i was bored and i started coding in c++ soo here you have it 
