@@ -27,6 +27,11 @@ ONLY IF YOU HAVE GCC
 
 NOW if you are using another compiler its almost always the name of the compiler + the name of the c++ file
 
+# WHERES MY FILE??!?!?!?!!?
+
+When you press enter it saves to a file named notepad.txt, if you run it directly on mac by doing double click there is a chance that its going to save in your profile acc
+Its surely going to save to notepad.txt and where you downloaded the file
+
 # Use this file
 
 Sooo you can look into the source code if you want but if you actually fork this and want to use it for your project remember to mention me in any way!
